@@ -11,3 +11,4 @@ In this project, I worked on extensive image processing. Detecting the shapes of
 Final Task - [Eyantra 2017 Planter Bot Theme - Final Task](https://youtu.be/vYROlWqvKRE?t=71)
 
 ![bot image](https://github.com/dhanrajbhosale/EYantra-2017-Submissions/blob/bbe9095436691962b9d3dede314e0f45ffe7a01e/bot.JPG?raw=true)
+![bot ppt image](https://github.com/dhanrajbhosale/EYantra-2017-Submissions/blob/6502def43e4bf861e194feb44a15d6dc3bd170e3/bot_ppt.png?raw=true)
